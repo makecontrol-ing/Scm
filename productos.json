@@ -1,0 +1,44 @@
+[
+  {
+    "imagen": "Images/producto_demo_1.jpg",
+    "nombre": "Estuche Antigolpes para iPhone",
+    "descripción": "Protección de alta resistencia, bordes reforzados y diseño transparente que resalta tu móvil.",
+    "etiqueta": "Accesorios",
+    "valor": "35.000"
+  },
+  {
+    "imagen": "Images/producto_demo_2.jpg",
+    "nombre": "Cargador Carga Rápida 20W",
+    "descripción": "Adaptador de corriente rápida para mantener tu equipo al 100% en menos tiempo, incluye cable tipo C.",
+    "etiqueta": "Energía",
+    "valor": "45.000"
+  },
+  {
+    "imagen": "Images/producto_demo_3.jpg",
+    "nombre": "Audífonos Inalámbricos Pro",
+    "descripción": "Sonido de alta fidelidad con cancelación de ruido, hasta 6 horas de batería continua.",
+    "etiqueta": "Audio",
+    "valor": "80.000"
+  },
+  {
+    "imagen": "Images/producto_demo_4.jpg",
+    "nombre": "Cable Lightning Reforzado",
+    "descripción": "Cable recubierto de nylon, de 2 metros de largo, resistente a dobleces constantes.",
+    "etiqueta": "Cables",
+    "valor": "25.000"
+  },
+  {
+    "imagen": "Images/producto_demo_5.jpg",
+    "nombre": "Vidrio Templado Cerámico",
+    "descripción": "Lámina protectora ultra resistente a golpes e irrompible para diferentes modelos.",
+    "etiqueta": "Protección",
+    "valor": "15.000"
+  },
+  {
+    "imagen": "Images/producto_demo_6.jpg",
+    "nombre": "Auriculares Manos Libres",
+    "descripción": "Auriculares clásicos con micrófono incorporado y conector auxiliar de 3.5mm.",
+    "etiqueta": "Audio",
+    "valor": "20.000"
+  }
+]
